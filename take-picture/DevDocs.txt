@@ -1,0 +1,10 @@
+QR Code Scanner
+---------------
+
+Once I used @zxing/ngx-scanner (https://www.npmjs.com/package/@zxing/ngx-scanner) and it worked fine. See demo here (https://zxing-js.github.io/ngx-scanner/).
+
+Easy to use:
+
+<!-- some.component.html -->
+<zxing-scanner></zxing-scanner>
+Install: npm i @zxing/ngx-scanner
